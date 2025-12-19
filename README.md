@@ -6,7 +6,7 @@ Statistical analysis of 5,568 historical aviation accident records to identify f
 ## Methods
 - **Data:** Kaggle dataset (1948–present), cleaned and categorized
 - **Analysis:** One-Way ANOVA with Tukey HSD, Linear Regression
-- **Tools:** R (tidyverse, lubridate)
+- **Tools:** R (tidyverse)
 
 ## Key Findings
 1. **Human-error accidents** have highest average fatalities (7.1 vs 5.5 for mechanical)
