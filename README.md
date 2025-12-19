@@ -20,6 +20,6 @@ Statistical analysis of 5,568 historical aviation accident records to identify f
 - Visualized results with ggplot2
 
 ## Files
-- `aviation_analysis.Rmd` – Complete R Markdown analysis
-- `aviation_report.pdf` – Formatted project report
+- `aviation_analysis.R` – Complete R Markdown analysis
+- `aviation_accident_report.pdf` – Formatted project report
 - `README.md` – This file
